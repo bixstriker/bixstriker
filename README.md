@@ -23,6 +23,10 @@ I'm especially interested in understanding why something works, what fails under
 
 The site includes my architecture overview, project notes, experiments and troubleshooting cases. I keep live configurations, credentials and private operational details outside the public repository.
 
+### A tool I've built
+
+I also develop **[BiX Barox Config Tool](https://lab.bixcore.de/pages/barox-config-tool.html)**, a personal project for studying industrial-switch CLI and comparing configuration exports. The converter and analysis functions work offline; hardware-backed serial-console research and automated recovery are separate ongoing work.
+
 ### Another personal project
 
 I also wrote **Seele der KI**, a science-fiction story, and made an interactive book website with German, Russian and Ukrainian editions.
