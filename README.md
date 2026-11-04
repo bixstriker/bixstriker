@@ -2,7 +2,9 @@
 
 I enjoy figuring out how networks and infrastructure work — not just installing things, but understanding what happens when they don't behave as expected.
 
-My background is in electronic security systems. In my spare time, I build and maintain **BiXCore**, a home network and security lab where I can learn by doing, troubleshoot real problems and document what I've learned.
+My professional background is in electronic security systems. Working with video surveillance also means integrating systems with Active Directory, configuring switches, routers, firewalls and GSM modems, and solving IP connectivity problems involving Axis cameras and video servers.
+
+In my spare time, I build and maintain **BiXCore**, a home network and security lab where I can learn by doing, troubleshoot real problems and document what I've learned.
 
 ### What I'm working with
 
@@ -20,3 +22,9 @@ I'm especially interested in understanding why something works, what fails under
 📁 **[Projects, technical notes and troubleshooting](https://github.com/bixstriker/bixcore-homelab-portfolio)**
 
 The site includes my architecture overview, project notes, experiments and troubleshooting cases. I keep live configurations, credentials and private operational details outside the public repository.
+
+### Another personal project
+
+I also wrote **Seele der KI**, a science-fiction story, and made an interactive book website with German, Russian and Ukrainian editions.
+
+📖 **[Read Seele der KI](https://bixcore.de/)** — I'd be glad to hear what you think if you read it.
